@@ -2,8 +2,11 @@ An interactive tool to create a 3D representation of the human brain from Allen 
 
 Future Work – to develop a tool showcasing groups of genes responsible for different diseases
 
-![3](https://cloud.githubusercontent.com/assets/25645124/23389046/a894a964-fd33-11e6-82c0-d9622426ae5d.png)
 
-![1](https://cloud.githubusercontent.com/assets/25645124/23389050/b13ec748-fd33-11e6-91d2-b8e3eb013d3c.png)
+![3](https://cloud.githubusercontent.com/assets/25645124/23389109/0beda1b4-fd34-11e6-9e9d-9a962758b40e.png)
 
-![2](https://cloud.githubusercontent.com/assets/25645124/23389054/b65632c0-fd33-11e6-8a34-40ad081c164a.png)
+![1](https://cloud.githubusercontent.com/assets/25645124/23389112/0fbc18de-fd34-11e6-8de2-c7fc9f590311.png)
+
+![2](https://cloud.githubusercontent.com/assets/25645124/23389115/1245ed96-fd34-11e6-88af-666e5fa42185.png)
+
+
