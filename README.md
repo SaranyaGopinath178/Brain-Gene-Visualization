@@ -2,9 +2,8 @@ An interactive tool to create a 3D representation of the human brain from Allen 
 
 Future Work – to develop a tool showcasing groups of genes responsible for different diseases
 
+![Screenshot](3.jpg)
 
-![alt text](screenshots/3.png)
+![Screenshot](1.jpg)
 
-![alt text](screenshots/1.png)
-
-![alt text](screenshots/2.png)
+![Screenshot](2.jpg)
