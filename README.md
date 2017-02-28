@@ -1,8 +1,10 @@
 An interactive tool to create a 3D representation of the human brain from Allen Brain Atlas using VTK and Python. Overlaid this 3D image with gene expression data and assigned different opacity and color intensity levels. 
 
 Future Work – to develop a tool showcasing groups of genes responsible for different diseases
-![Screenshot](3.png)
 
-![Screenshot](1.png)
 
-![Screenshot](2.png)
+![alt text](screenshots/3.png)
+
+![alt text](screenshots/1.png)
+
+![alt text](screenshots/2.png)
