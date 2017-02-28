@@ -2,4 +2,4 @@ An interactive tool to create a 3D representation of the human brain from Allen 
 
 Future Work – to develop a tool showcasing groups of genes responsible for different diseases
 
-![Alt Text](https://github.com/{SaranyaGopinath178}/{Brain-Gene-Visualization}/raw/master/path/to/3.png)
+
