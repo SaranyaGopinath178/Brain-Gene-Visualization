@@ -1,4 +1,4 @@
-# Brain Gene Visualization (Independent Study)
+# Brain Gene Visualization (MS Independent Study)
 
 An interactive tool to create a 3D representation of the human brain from Allen Brain Atlas using VTK and Python. Overlaid this 3D image with gene expression data and assigned different opacity and color intensity levels. 
 
